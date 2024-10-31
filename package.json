@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkupme/array-buffer.git"
+    "url": "git+https://github.com/fkupme/promise.git"
   },
   "author": "fkupme",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fkupme/array-buffer/issues"
+    "url": "https://github.com/fkupme/promise/issues"
   },
-  "homepage": "https://github.com/fkupme/array-buffer#readme",
+  "homepage": "https://github.com/fkupme/promise#readme",
   "description": "Promises and async await",
   "devDependencies": {
     "@babel/cli": "^7.25.9",
